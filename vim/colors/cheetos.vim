@@ -223,6 +223,10 @@ hi Directory        ctermfg=151                                     cterm=none
 hi ErrorMsg         guifg=#ee0000           guibg=NONE              gui=none
 hi ErrorMsg         ctermfg=196             ctermbg=NONE            cterm=none
 
+" column guide(s)
+hi ColorColumn      gui=NONE                guibg=#202438           gui=none
+hi ColorColumn      cterm=NONE              ctermbg=234             cterm=none
+
 " column separating vertically split windows
 hi VertSplit        guifg=#777777           guibg=#363946           gui=none
 hi VertSplit        ctermfg=242             ctermbg=237             cterm=none
