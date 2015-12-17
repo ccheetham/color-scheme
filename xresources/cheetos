@@ -1,0 +1,11 @@
+*foreground:                #949F92
+*background:                #202020
+
+wheel*foreground:           black
+wheel*background:           #ffaf00
+
+log*foreground:             dark khaki
+
+task*background:            #101010
+
+! vim: ft=xdefaults
